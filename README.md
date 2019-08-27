@@ -1,1 +1,7 @@
-# spring-doc-feedback-client
+# Spring documentation feedback client
+
+```
+npm install
+
+gulp
+```

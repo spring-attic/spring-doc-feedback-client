@@ -1,0 +1,14 @@
+{
+  "name": "spring-doc-resources-feedback",
+  "description": "Spring Documentation Resources Feedback",
+  "version": "0.0.1",
+  "repository": "https://github.com/spring-io/spring-doc-resources",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
